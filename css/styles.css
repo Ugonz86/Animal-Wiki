@@ -1,0 +1,11 @@
+.whale, .dog, .dolphin {
+  display: none;
+}
+
+#whaleInfo, #dogInfo, #dolphininfo {
+  display: none;
+}
+
+img {
+  width: 400px;
+}
